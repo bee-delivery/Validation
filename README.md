@@ -1,30 +1,23 @@
-kennedytedesco/validation
+beedelivery/validation
 ==========
 
 The power of [Respect Validation](https://github.com/Respect/Validation) on Laravel.
 
-[![Build Status](https://travis-ci.org/KennedyTedesco/Validation.svg)](https://travis-ci.org/KennedyTedesco/Validation)
-[![Total Downloads](https://poser.pugx.org/KennedyTedesco/Validation/downloads.svg)](https://packagist.org/packages/KennedyTedesco/Validation)
-[![Latest Stable Version](https://poser.pugx.org/KennedyTedesco/Validation/v/stable.svg)](https://packagist.org/packages/KennedyTedesco/Validation)
+[![Build Status](https://travis-ci.org/BeeDelivery/Validation.svg)](https://travis-ci.org/BeeDelivery/Validation)
+[![Total Downloads](https://poser.pugx.org/BeeDelivery/Validation/downloads.svg)](https://packagist.org/packages/BeeDelivery/Validation)
+[![Latest Stable Version](https://poser.pugx.org/BeeDelivery/Validation/v/stable.svg)](https://packagist.org/packages/BeeDelivery/Validation)
 [![License](https://poser.pugx.org/orchestra/testbench/license)](https://packagist.org/packages/orchestra/testbench)
 
 ## Version Compatibility
 
- Laravel  | kennedytedesco/validation
+ Laravel  | beedelivery/validation
 :---------|:----------
- **9.x**  | `composer require kennedytedesco/validation:^9.0`
- 8.x  | `composer require kennedytedesco/validation:^8.0`
- 7.x  | `composer require kennedytedesco/validation:^7.0`
- 6.x  | `composer require kennedytedesco/validation:^6.0`
- 5.8.x    | `composer require kennedytedesco/validation:^5.0`
- 5.7.x    | `composer require kennedytedesco/validation:^5.0`
- 5.6.x    | `composer require kennedytedesco/validation:^5.0`
- 5.5.x    | `composer require kennedytedesco/validation:^5.0`
+ **10.x**  | `composer require beedelivery/validation:^10.0`
 
 ## Installation
 
 ```php
-composer require kennedytedesco/validation:^9.0
+composer require beedelivery/validation:^10.0
 ```
 
 ## Supported rules (with examples)
