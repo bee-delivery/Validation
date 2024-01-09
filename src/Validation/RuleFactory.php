@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace KennedyTedesco\Validation;
+namespace BeeDelivery\Validation;
 
 use ReflectionClass;
 use ReflectionException;
