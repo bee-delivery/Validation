@@ -10,8 +10,8 @@
         }
     ],
     "require": {
-        "illuminate/support": "^10.0",
-        "respect/validation": "^2.0"
+        "illuminate/support": "*",
+        "respect/validation": "^2.3"
     },
     "require-dev": {
         "laravel/framework": "^10.0",
